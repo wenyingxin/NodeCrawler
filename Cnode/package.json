@@ -1,0 +1,16 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "抓取cnode页面帖子标题、链接",
+  "main": "app.js",
+  "dependencies":{
+  	"cheerio":"^0.22.0",
+  	"express":"^4.14.0",
+  	"superagent":"^3.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
