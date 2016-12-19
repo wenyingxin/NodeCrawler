@@ -1,0 +1,17 @@
+{
+  "name": "jandan",
+  "version": "1.0.0",
+  "description": "抓取jandan图片",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "request": "^2.79.0",
+    "superagent": "^3.3.1"
+  }
+}
